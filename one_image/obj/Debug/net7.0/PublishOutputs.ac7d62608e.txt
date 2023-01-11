@@ -1,0 +1,7 @@
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\one_image.exe
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\one_image.dll
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\one_image.deps.json
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\one_image.runtimeconfig.json
+C:\Users\Italian Girl\chat-app\one_image\bin\Debug\net7.0\publish\one_image.pdb
