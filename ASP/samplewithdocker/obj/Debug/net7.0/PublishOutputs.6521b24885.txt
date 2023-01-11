@@ -1,0 +1,7 @@
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\samplewithdocker.exe
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\samplewithdocker.dll
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\samplewithdocker.deps.json
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\samplewithdocker.runtimeconfig.json
+C:\Users\Italian Girl\chat-app\ASP\samplewithdocker\bin\Debug\net7.0\publish\samplewithdocker.pdb
